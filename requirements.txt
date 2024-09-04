@@ -1,3 +1,4 @@
 streamlit==1.25.0
 llama_index
 llama_parse
+ipython
